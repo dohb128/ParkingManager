@@ -1,0 +1,11 @@
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\bin\Debug\ParkingManager.exe.config
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\bin\Debug\ParkingManager.exe
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\bin\Debug\ParkingManager.pdb
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\obj\Debug\ParkingManager.csproj.AssemblyReference.cache
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\obj\Debug\ParkingManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\obj\Debug\ParkingManager.FormMain.resources
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\obj\Debug\ParkingManager.Properties.Resources.resources
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\obj\Debug\ParkingManager.csproj.GenerateResource.cache
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\obj\Debug\ParkingManager.csproj.CoreCompileInputs.cache
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\obj\Debug\ParkingManager.exe
+C:\Users\yjj91\Documents\컴퓨터정보\C#\ParkingManagerA\ParkingManagerA\ParkingManager\obj\Debug\ParkingManager.pdb
